@@ -1,0 +1,106 @@
+[
+    {
+        "_id": 1,
+        "title": "A Loving Heart is the Truest Wisdom Loving Heart is the",
+        "author": "Andy Meek",
+        "image": "https://preview.colorlib.com/theme/andrea/images/image_1.jpg.webp",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora.",
+        "tags": [
+            "Travel",
+            "Life",
+            "Tech"
+        ],
+        "date": "Dec 15, 2022"
+    },
+    {
+        "_id": 2,
+        "title": "Ginger Chicken Meatball Sandos",
+        "author": "José Adorno",
+        "image": "https://pinchofyum.com/cdn-cgi/image/width=680,height=99999,fit=scale-down/wp-content/uploads/ginger-chicken-meatball-sandos-63.jpg",
+        "details": "OKAY. How much do we love these meatballs? And this whole sandwich? It’s an 11/10 for me. THEY ARE SO GOOD. The meatballs are jam-packed with flavor, golden brown on the outside, and perfectly tender. What a dream. This whole thing comes together shockingly easy, especially if you use a little blitzer like this guy to mince all the meatball mix-ins! The meatballs will beg to be eaten straight out of the pan as an “appetizer” before you even get to the sandwich",
+        "tags": [
+            "Food",
+            "Meatball",
+            "Sandos"
+        ],
+        "date": "Dec 17, 2022"
+    },
+    {
+        "_id": 3,
+        "title": "The Pinch of Yum Everything List",
+        "author": "Chris Smith",
+        "image": "https://pinchofyum.com/cdn-cgi/image/width=680,height=99999,fit=scale-down/wp-content/uploads/Pinch-of-Yum-Everything-List-Hero-V3-01.jpg",
+        "details": "This is the Pinch of Yum Everything List and it’s the go-to spot for linking all of our most-requested items that I use and recommend all the time! The goal of the Everything List is to provide a singular place for organizing links to the cookware, kitchen appliances, kitchen tools, tableware, beauty products, and even kids and baby supplies that I get asked about most frequently, use most regularly, and recommend most enthusiastically.",
+        "tags": [
+            "Food",
+            "Pinch",
+            "Sandos"
+        ],
+        "date": "Dec 20, 2022"
+    },
+    {
+        "_id": 4,
+        "title": "Cox's Bazar Beach",
+        "author": "Jacob Siegal",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e9/bb/cc/sugandha-beach-cox-s.jpg?w=1200&h=-1&s=1",
+        "details": "This is the Pinch of Yum Everything List and it’s the go-to spot for linking all of our most-requested items that I use and recommend all the time! The goal of the Everything List is to provide a singular place for organizing links to the cookware, kitchen appliances, kitchen tools, tableware, beauty products, and even kids and baby supplies that I get asked about most frequently, use most regularly, and recommend most enthusiastically.",
+        "tags": [
+            "Travel",
+            "Cox's Bazar",
+            "Beach"
+        ],
+        "date": "Dec 18, 2022"
+    },
+    {
+        "_id": 5,
+        "title": "Orion Will ‘Skip Like a Rock’ Across Earth’s Atmosphere",
+        "author": "Joshua Hawkins",
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_965/562dc5ec2dd387d3c8f3560bb87fea7f.jpg",
+        "details": "The Artemis 1 mission is coming to an end, but that doesn’t mean the hard part is over. The uncrewed Orion spacecraft, currently on its way home from the Moon, must still survive a harrowing reentry through Earth’s atmosphere if it’s to perform a successful splashdown in the Pacific Ocean. NASA is hoping that a new technique, known as a skip reentry, will assist the capsule during the final leg of its long and historic journey.",
+        "tags": [
+            "Space",
+            "Earth’s",
+            "Atmosphere"
+        ],
+        "date": "Dec 15, 2022"
+    },
+    {
+        "_id": 6,
+        "title": "Andor and House of the Dragon Score Big Critics Choice Awards",
+        "author": "Christian de Looper",
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_965/1da81090c29253de2a2b8f7a8c64a17e.png",
+        "details": "They may have only just recently come to a close, but Andor and House of the Dragon already have some of their first major awards nods of the season, leading a solid contingent for genre TV at the Critics Choice Awards. Andor picked up nods in Best Drama and Best Actor in a Drama Series for Diego Luna’s role as the burgeoning Star Wars revolutionary, with House of the Dragon joining it in Best Drama and Matt Smith’s Daemon Targaryen sweeping",
+        "tags": [
+            "Movie",
+            "Andor",
+            "Awards"
+        ],
+        "date": "Jan 24, 2019"
+    },
+    {
+        "_id": 7,
+        "title": "Facebook and Instagram Say They'll Remove All News",
+        "author": "Maren Estrada",
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_965/c4b61f6a1b361851dc2b26b845c84658.jpg",
+        "details": "Meta, the parent company of Facebook and Instagram, drew a line in the sand Monday, saying it adamantly opposes a proposed law that would allow newspapers to bargain collectively with social media companies for more ad money in exchange for content. Allowing such a thing would create a “cartel-like entity,” the company claimed.",
+        "tags": [
+            "Facebook",
+            "Meta",
+            "Instagram"
+        ],
+        "date": "Dec 16, 2022"
+    },
+    {
+        "_id": 8,
+        "title": "Waze just launched its first dedicated app for cars",
+        "author": "Maren Estrada",
+        "image": "https://bgr.com/wp-content/uploads/2022/12/Waze.jpg",
+        "details": "After years of being relegated to your phone, a dedicated Waze app is finally starting to roll out to cars. On Tuesday, Google announced that Waze is now available in Renault’s Austral Hybrid and Megane E-Tech electric vehicles in Europe. The dedicated Waze car app includes the same real-time routing, navigation, alerts, settings, preferences, and saved places as the mobile app, but it has been designed for the larger navigation displays of modern vehicles.",
+        "tags": [
+            "Tech",
+            "Car",
+            "Waze"
+        ],
+        "date": "Dec 20, 2022"
+    }
+]
